@@ -24,7 +24,7 @@
 <div>
  <p>
 
-Mi nombre es **Tomas**, tengo **23 años** y soy **Full Stack Developer** especializado en **backend** con formación en informática. 💻
+Tengo **23 años** y soy **Full Stack Developer** especializado en **backend** con formación en informática. 💻
 
 Mi pasión por la tecnología y el desarrollo de soluciones innovadoras me motiva a seguir aprendiendo cada día 🚀. Comencé en este mundo a los **16 años** con **Visual Basic**, y fue en el desarrollo web donde encontré mi verdadera pasión 🌐. Desde entonces, he dedicado gran parte de mi tiempo a aprender de manera autodidacta, complementado con **cursos** y **libros**, para mantenerme siempre actualizado 📚.
 
