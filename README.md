@@ -40,13 +40,13 @@ Actualmente, tengo experiencia trabajando con tecnologías como **JavaScript**, 
 <br />
 <br />
 <br />
+<!---
 ### Proyectos en los que estoy trabajando actualmente
 
 <p align="center">
   <img src="https://media.giphy.com/media/fphXG8dDcRHVavls9o/giphy.gif?cid=790b7611m9rxw474046ti6f44hrqup6h5ivzmxd8aj6b03um&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100" height="100" alt="Cargando..."/>
 </p>
 
-<!---
 <br />
  **Proyecto 1**: Descripción breve
 - **Proyecto 2**: Descripción breve
