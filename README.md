@@ -1,4 +1,3 @@
-<a href="mailto:fernandeztomas735@gmail.com"> fernandeztomas735@gmail.com </a>
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=790b7611ev2dsukvjzc0e0eyu2ms214kwkof4gcyypm7owx2&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200" height="100"/>
 </p>
@@ -8,7 +7,8 @@
 
 ### Hola👋 Soy Tomás
 
-<a href="https://www.linkedin.com/in/tomas-fernandez-55870a28b/">
+<a href="https://www.linkedin.com/in/tomas-fernandez-55870a28b/"> fernandeztomas735@gmail.com </a>
+<a>
   <img style="margin-right: 10px;" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="mailto:fernandeztomas735@gmail.com">
