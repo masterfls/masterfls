@@ -33,6 +33,9 @@ Actualmente, tengo experiencia trabajando con tecnologías como **JavaScript**, 
 
 🚀 Puedes ver mi portafolio aquí: [Mi Portafolio](https://tuportafolio.com)
 
+<!--START_SECTION:activity-->
+
+<!--END_sECTION:activity-->
 
 </h4>
 </div>
